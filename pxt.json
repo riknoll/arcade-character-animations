@@ -15,7 +15,8 @@
         "docs/run-character-animation.md",
         "docs/set-character-animations-enabled.md",
         "docs/set-character-state.md",
-        "docs/rule.md"
+        "docs/rule.md",
+        "docs/_locales/es/clear-character-state.md"
     ],
     "testFiles": [
         "test.ts"
